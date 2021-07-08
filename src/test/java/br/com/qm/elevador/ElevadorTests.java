@@ -60,14 +60,5 @@ public class ElevadorTests {
 	    public void naoDeveEntrarComACapacidadeMaxima() {
 	    }
 
-	    @Test
-	    public void deveSairComSucesso() {
-	    
-	    }
-
-	    @Test
-	    public void naoDeveSairCasoNaoHajaNinguem() {
-	    
-	    }
 	
 }
